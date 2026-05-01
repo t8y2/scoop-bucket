@@ -14,7 +14,7 @@
         "args": ["/S", "/D=$dir"]
     },
     "uninstaller": {
-        "file": "Uninstall dbx.exe",
+        "file": "uninstall.exe",
         "args": ["/S"]
     },
     "checkver": {
