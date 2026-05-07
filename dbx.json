@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
   "url": "https://github.com/t8y2/dbx/releases/download/v0.4.3/DBX_0.4.3_x64-setup.exe",
-  "hash": "da2688113517d65a874b185a55e0ae1145492ff6eac77f182da0277ac3f7f0e9"
+  "hash": "a8581bf3db88f066178d5a68c65e627e3b013842b811d74227427cf8ae369d91"
         }
     },
     "innosetup": false,
