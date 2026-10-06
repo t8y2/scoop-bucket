@@ -1,16 +1,16 @@
 {
-    "version": "0.6.34",
+    "version": "0.6.35",
     "description": "Open-source database management tool",
     "homepage": "https://github.com/t8y2/dbx",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-setup.exe",
-  "hash": "13362f73ed81b5988ebc6d7e6ec63aeb4a197647c706121ab9f1cf45efee0b7c"
+  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.35/DBX_0.6.35_x64-setup.exe",
+  "hash": "b03af6fd6c84663ad19fb7950f3d8d30b27b9529f79b1611c6cf0da3bbdf1dd6"
         },
         "arm64": {
-  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64-setup.exe",
-  "hash": "e711c06633fb4cc896822fc74078ec3f581bec1c8eaa7210797426822544b347"
+  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.35/DBX_0.6.35_arm64-setup.exe",
+  "hash": "6d6d8913c1040236c2f7d6116326061fc560385884d25860f5734d36b2801de7"
         }
     },
     "innosetup": false,
