@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.64-beta.20261102.1/DBX_0.6.64_x64-setup.exe",
+  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.64/DBX_0.6.64_x64-setup.exe",
   "hash": "997cb18d937b6fbe3ab9c249ff0cc4c85fa7862934adc6995482b18d380348bb"
         },
         "arm64": {
-  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.64-beta.20261102.1/DBX_0.6.64_arm64-setup.exe",
+  "url": "https://github.com/t8y2/dbx/releases/download/v0.6.64/DBX_0.6.64_arm64-setup.exe",
   "hash": "eca62e6ab7efbb8703509ca70e02b306a29b540a2d8209edead206afa3da4f61"
         }
     },
