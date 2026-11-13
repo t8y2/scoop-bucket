@@ -1,16 +1,16 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.5",
     "description": "SSH client with terminal, SFTP, port forwarding and an AI assistant",
     "homepage": "https://motty.page/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/t8y2/motty/releases/download/v0.4.4/motty-0.4.4-windows-amd64.zip",
-            "hash": "c71cef63c77418d7a10d75e0df7e48b6d8d8d3cc9744f06ec9bb4823c78975e9"
+            "url": "https://github.com/t8y2/motty/releases/download/v0.4.5/motty-0.4.5-windows-amd64.zip",
+            "hash": "2fe1b4d0390aab307b7f07b8e45708310575bc80e12a58a6f66ba55a693af62e"
         },
         "arm64": {
-            "url": "https://github.com/t8y2/motty/releases/download/v0.4.4/motty-0.4.4-windows-arm64.zip",
-            "hash": "e343f6dc78eb590d7f0a9b6e333ac08a8e9a1d4fac990954d5253d74e2dd1b09"
+            "url": "https://github.com/t8y2/motty/releases/download/v0.4.5/motty-0.4.5-windows-arm64.zip",
+            "hash": "1694e0b8a387c54b099e9549dd07ce5902743e981da009d88dc66e5e254d7bcd"
         }
     },
     "shortcuts": [
